@@ -1,0 +1,234 @@
+ .cv-section .container {
+    width: 992px;
+    
+} 
+
+.img img{
+    width: 40%;
+}
+.img {
+    width: 400px;
+    text-align: right;
+}
+.left_box {
+    padding-top: 51px;
+}
+.BORDRR{
+    border: 3px solid #000;
+}
+
+
+
+.content-section .container {
+    width: 992px;
+    
+}
+.content-section .Career-Objective h2 {
+    background-color: darkgrey;
+    padding: 13px;
+    position: relative;
+    padding-top: 3px;
+    border-radius: 7px;
+    border: none;
+}
+.content-section .Career-Objective h2::after {
+    content: '';
+    position: absolute;
+    background: #000;
+    width: 175px;
+    height: 2px;
+    left: 15px;
+    bottom: 9px;
+    border-radius: 21px;
+}
+
+.Special-Qualification .container{
+    width: 992px;
+}
+
+.Special-Qualification .Special h2 {
+    background-color: darkgrey;
+    padding: 13px;
+    position: relative;
+    padding-top: 3px;
+    border-radius: 7px;
+    border: none;
+}
+.Special-Qualification .Special h2::after {
+    content: '';
+    position: absolute;
+    background: #000;
+    width: 222px;
+    height: 2px;
+    left: 15px;
+    bottom: 9px;
+    border-radius: 21px;
+}
+
+p.pb {
+    margin-bottom: 0;
+}
+
+.Special-Qualification .Special ul{}
+.Special-Qualification .Special ul li {
+    list-style: none;
+    position: relative;
+}
+.Special-Qualification .Special ul li::before {
+    content: '\f00c';
+    position: absolute;
+    font-family: fontawesome;
+    left: -27px;
+    line-height: 31px;
+}
+
+.complet-project .container{
+    width: 992px;
+}
+
+.grid-section .container{
+    width: 992px;
+}
+.grid-section .git-link h2 {
+    margin-bottom: 0;
+}
+.grid-section .git-link a {
+    
+}
+
+.Working-Experience .container{
+    width: 992px;
+}
+p.work1 {
+    margin-bottom: 0;
+}
+p.work2 {
+    margin-bottom: 0;
+}
+p.work3 {
+    margin-bottom: 0;
+}
+span.span1 {
+    margin-left: 40px;
+}
+span.span2 {
+    margin-left: 112px;
+}
+span.span3 {
+    margin-left: 136px;
+}
+
+.Academic-Qualification .container{
+    width: 992px;
+}
+.Academic-Qualification .Academic h2 {
+    background-color: darkgrey;
+    padding: 13px;
+    position: relative;
+    padding-top: 3px;
+    border-radius: 7px;
+    border: none;
+}
+.Academic-Qualification .Academic h2::after {
+    content: '';
+    position: absolute;
+    background: #000;
+    width: 252px;
+    height: 2px;
+    left: 15px;
+    bottom: 9px;
+    border-radius: 21px;
+}
+
+.Personal-Detail .container{
+    width: 992px;
+}
+.Personal-Detail .Personal h2{
+    background-color: darkgrey;
+    padding: 13px;
+    position: relative;
+    padding-top: 3px;
+    border-radius: 7px;
+    border: none;
+}
+.Personal-Detail .Personal h2::after {
+    content: '';
+    position: absolute;
+    background: #000;
+    width: 175px;
+    height: 2px;
+    left: 15px;
+    bottom: 9px;
+    border-radius: 21px;
+}
+
+.Personal-Detail .pragraph {
+    margin-left: 24px;
+}
+p.Fname {
+    margin-bottom: 0;
+    margin-bottom: 9px;
+}
+span.sapn-1 {
+    margin-left: 82px;
+}
+p.Mname {
+    margin-bottom: 9px;
+}
+span.span-2 {
+    margin-left: 74px;
+}
+p.dob {
+    margin-bottom: 9px;
+}
+span.span-3 {
+    margin-left: 95px;
+}
+p.male {
+    margin-bottom: 9px;
+}
+span.span-5 {
+    margin-left: 88px;
+}
+span.span-4 {
+    margin-left: 132px;
+}
+p.marital {
+    margin-bottom: 9px;
+}
+p.nation {
+    margin-bottom: 9px;
+}
+span.span-6 {
+    margin-left: 108px;
+}
+p.religion {
+    margin-bottom: 9px;
+}
+p.permant {
+    margin-bottom: 9px;
+}span.span-8 {
+    margin-left: 48px;
+}
+span.span-9 {
+    margin-left: 68px;
+}
+span.span-7 {
+    margin-left: 128px;
+}
+
+.Personal-Detail .pragraph h3 {
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 48px;
+    margin-bottom: 125px;
+}
+
+p.current {
+    margin-bottom: 93px;
+}
+hr.BORDRR {
+    
+    color: #d97474;
+    border: 2px solid;
+}

@@ -1,0 +1,23 @@
+.dashboard{
+    height: 100vh;
+}
+
+
+.main-deshboard .main-caption {
+    text-align: center;
+    margin-top: 19%;
+}
+.main-deshboard .main-caption h2 {
+    font-size: 39px;
+    margin-bottom: 25px;
+}
+.main-deshboard .main-caption p {
+    width: 759px;
+    margin: 0 auto;
+}
+.desh-2{
+    background-color: darkgrey;
+}
+.desh-1 {
+    margin-top: 11px;
+}
